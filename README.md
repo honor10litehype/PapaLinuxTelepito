@@ -6,4 +6,4 @@ This is the most simple program ever so my dumbass doesnt have to maintain it mu
 Ez a legegyszerűbb script, mert lusta vagyok frissíteni
 
 
-Curl telepítő/installer: curl -fsSL https://github.com/papatelepito.sh
+Curl telepítő/installer: curl -fsSL https://github.com/papatelepito.sh | bash
